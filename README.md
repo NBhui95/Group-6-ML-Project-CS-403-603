@@ -24,4 +24,4 @@ Machine Learning project on "**Developing a Predictive Model to Enhance Diabetes
 
 **Project Code Google Colab Link (if required):** https://colab.research.google.com/drive/1kBijStnkRa8G2-up9BEHRNweWs1VC4od?usp=drive_link
 
-**... Thank you for visit ...******
+**... Thank you for visit ...**
